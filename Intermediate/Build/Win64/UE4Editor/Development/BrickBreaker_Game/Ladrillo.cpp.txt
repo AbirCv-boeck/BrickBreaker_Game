@@ -1,0 +1,3 @@
+C:\Users\DELL\Documents\Unreal Projects\BrickBreaker_Game\Intermediate\Build\Win64\UE4Editor\Development\BrickBreaker_Game\Definitions.BrickBreaker_Game.h
+C:\Users\DELL\Documents\Unreal Projects\BrickBreaker_Game\Source\BrickBreaker_Game\Ladrillo.h
+C:\Users\DELL\Documents\Unreal Projects\BrickBreaker_Game\Intermediate\Build\Win64\UE4Editor\Inc\BrickBreaker_Game\Ladrillo.generated.h

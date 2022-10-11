@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BrickBreaker_Game",
+			"Path": "C:\\Users\\DELL\\Documents\\Unreal Projects\\BrickBreaker_Game\\Source\\BrickBreaker_Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BrickBreaker_GameEditor",
+			"Path": "C:\\Users\\DELL\\Documents\\Unreal Projects\\BrickBreaker_Game\\Source\\BrickBreaker_GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

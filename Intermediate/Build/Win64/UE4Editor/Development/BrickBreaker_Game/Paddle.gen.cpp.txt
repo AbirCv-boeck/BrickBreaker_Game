@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\Unreal Projects\BrickBreaker_Game\Intermediate\Build\Win64\UE4Editor\Development\BrickBreaker_Game\Definitions.BrickBreaker_Game.h
+D:\Unreal Engine\UE_4.27_02\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engine\UE_4.27_02\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\DELL\Documents\Unreal Projects\BrickBreaker_Game\Source\BrickBreaker_Game/Paddle.h
+C:\Users\DELL\Documents\Unreal Projects\BrickBreaker_Game\Intermediate\Build\Win64\UE4Editor\Inc\BrickBreaker_Game\Paddle.generated.h

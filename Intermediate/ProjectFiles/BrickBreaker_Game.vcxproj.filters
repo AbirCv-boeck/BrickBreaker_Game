@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BrickBreaker_Game.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{052324D9-0560-4383-83A0-CCAC1DE3347C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BrickBreaker_Game.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BrickBreaker_GameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{465DFDAB-F806-4567-BEBD-6E6641D6D2F5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BrickBreaker_Game">
+      <UniqueIdentifier>{1593B353-586E-42FC-8F11-669D3465B8A9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BrickBreaker_Game\Ball.cpp">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrickBreaker_Game\Ball.h">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\BrickBreaker_Game\BrickBreaker_Game.Build.cs">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BrickBreaker_Game\BrickBreaker_Game.cpp">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrickBreaker_Game\BrickBreaker_Game.h">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrickBreaker_Game\BrickBreaker_GameGameModeBase.cpp">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrickBreaker_Game\BrickBreaker_GameGameModeBase.h">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrickBreaker_Game\Ladrillo.cpp">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrickBreaker_Game\Ladrillo.h">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrickBreaker_Game\Menu.cpp">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrickBreaker_Game\Menu.h">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrickBreaker_Game\Nivel.cpp">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrickBreaker_Game\Nivel.h">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrickBreaker_Game\Paddle.cpp">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrickBreaker_Game\Paddle.h">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrickBreaker_Game\Potenciador.cpp">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrickBreaker_Game\Potenciador.h">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrickBreaker_Game\Puntaje.cpp">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrickBreaker_Game\Puntaje.h">
+      <Filter>Source\BrickBreaker_Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
